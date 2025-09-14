@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 
-![Rubén's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark)
+![Rubén's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciaruben07&show_icons=true&theme=dark)
 
 ---
 
